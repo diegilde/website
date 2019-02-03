@@ -30,7 +30,7 @@
     "develop": "gatsby develop",
     "start": "yarn develop",
     "serve": "gatsby serve",
-    "deploy": "gatsby build && gh-pages -d public -b gh-pages"
+    "deploy:github": "gatsby build && node ./scripts/deploy-github"
   },
   "repository": {
     "type": "git",
