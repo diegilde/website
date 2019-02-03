@@ -60,7 +60,7 @@ class SignupForm extends Component {
       return (
         <div id="signup_form" className="signupForm thankYouMessage" >
           <div>
-            <h4>Thank you {fields.FNAME} for signing up!</h4>
+            <h4>Thank you {fields.NAME} for signing up!</h4>
             <p>Your guild is still under development in your city. We will get in touch with you once we are ready to launch.</p>
           </div>
         </div>
@@ -93,21 +93,12 @@ class SignupForm extends Component {
           {this.renderOtherProfession()}
 
           <Input
-            name="FNAME"
-            value={fields.FNAME}
-            placeholder="First Name"
+            name="NAME"
+            value={fields.NAME}
+            placeholder="Name"
             onChange={this.onChange}
             onFocus={this.clearError}
-            errorMessage={this.state.error.FNAME}
-          />
-
-          <Input
-            name="LNAME"
-            value={fields.LNAME}
-            placeholder="Last Name"
-            onChange={this.onChange}
-            onFocus={this.clearError}
-            errorMessage={this.state.error.LNAME}
+            errorMessage={this.state.error.NAME}
           />
 
           <Input

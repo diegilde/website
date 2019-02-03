@@ -9,8 +9,7 @@ const MAILCHIMP_FORM_IDENTIFIERS = {
 
 const MAILCHIMP_FORM_FIELDS_MAPPER = {
   0: 'EMAIL',
-  1: 'FNAME',
-  2: 'LNAME',
+  1: 'NAME',
   3: 'PROF',
   4: 'CITY',
   5: 'ADDPROF'
