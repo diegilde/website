@@ -1,0 +1,31 @@
+.input {
+  text-align: left;
+}
+
+.input input {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  border-radius: 0;
+  width: 100%;
+  padding: 0.5rem;
+  border: 1px solid var(--light-grey);
+}
+
+.input input::placeholder {
+  color: var(--light-grey);
+}
+
+.input.error input {
+  display: block;
+  border: 1px solid var(--accent)
+}
+
+.input .errorBlock {
+  height: 1rem;
+  color: var(--accent)
+}
+
+.input .errorBlock {
+  margin-bottom: 1rem;
+}

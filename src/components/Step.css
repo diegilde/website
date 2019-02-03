@@ -1,0 +1,17 @@
+.step {
+  margin: 3rem 0;
+}
+
+.step h4 {
+  margin-bottom: 0.5rem;
+}
+
+.numberCircle {
+  margin: 1rem auto;
+  border-radius: 50%;
+  width: 40px;
+  line-height: 40px;
+  background: var(--white);
+  color: var(--accent);
+  text-align: center;
+}
