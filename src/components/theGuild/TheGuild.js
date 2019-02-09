@@ -1,5 +1,5 @@
 import React from "react"
-import Benefit from '../benefit/Benefit';
+import Benefit from './Benefit';
 import theGuild from "../../images/the-guild.svg"
 import "./TheGuild.css"
 import BackgroundImage from './BackgroundImage'
