@@ -27,6 +27,15 @@ module.exports = {
         icon: `src/images/the-guild-logo.png`, // This path is relative to the root of the site.
       },
     },
+    {
+      resolve: `gatsby-plugin-google-analytics`,
+      options: {
+        trackingId: "UA-134210860-1",
+        head: true,
+        anonymize: true,
+        respectDNT: false,
+      },
+    },
     // this (optional) plugin enables Progressive Web App + Offline functionality
     // To learn more, visit: https://gatsby.app/offline
     // 'gatsby-plugin-offline',
