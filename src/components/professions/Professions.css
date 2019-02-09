@@ -1,12 +1,11 @@
 .professions {
-  padding: 4em 2em 0;
+  padding: 4em 2em;
   background: var(--white);
 }
 
 .professions .profession  {
   margin: 3em 0;
 }
-
 
 .professions .profession img {
   margin-bottom: 0.5em;
