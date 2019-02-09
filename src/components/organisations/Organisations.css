@@ -6,7 +6,9 @@
 .organisations a {
   display: inline-block;
   margin: 1.5rem auto 0;
-  padding: 10px 40px;
+  width: 100%;
+  max-width: 350px;
+  padding: 10px 0;
   color: var(--white);
   background: var(--accent);
   text-transform: uppercase;
