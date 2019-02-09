@@ -1,5 +1,13 @@
 .professions {
-  padding: 40px;
+  padding: 4em 2em 0;
   background: var(--white);
-  height: 400px; /* work in progress*/
+}
+
+.professions .profession  {
+  margin: 3em 0;
+}
+
+
+.professions .profession img {
+  margin-bottom: 0.5em;
 }
