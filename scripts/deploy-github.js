@@ -1,3 +1,4 @@
+const fs = require('fs')
 const ghpages = require('gh-pages')
 
 fs.writeFile('public/CNAME', "jointheguild.online", function(err) {
