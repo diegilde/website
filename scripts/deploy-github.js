@@ -1,5 +1,9 @@
 const ghpages = require('gh-pages')
 
+fs.writeFile('public/CNAME', "die-gilde.com", function(err) {
+  console.error(err)
+});
+
 ghpages.publish(
   'public',
   {
