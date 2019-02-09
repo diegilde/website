@@ -40,6 +40,7 @@ template {
   display: none;
 }
 a {
+  color: var(--accent);
   background-color: transparent;
   -webkit-text-decoration-skip: objects;
 }
@@ -623,11 +624,23 @@ pre tt:after {
 }
 
 h1, h2, h3 {
-  font-family: 'Abril Fatface', serif;
+  font-family: 'Playfair Display', serif;
   font-weight: 100;
 }
 
 h4, h5, h6 {
   font-family: 'Open Sans', sans-serif;
   font-weight: 700;
+}
+
+.page {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+  justify-content: space-between
+}
+
+.content {
+  margin: 0 auto;
+  max-width: 1024px;
 }

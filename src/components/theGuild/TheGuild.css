@@ -1,0 +1,8 @@
+.theGuild {
+  padding: 40px;
+  color: var(--white)
+}
+
+.theGuild .illustration {
+  margin-top: 3.5em
+}

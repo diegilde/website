@@ -4,6 +4,8 @@
 }
 
 .organisations a {
+  display: inline-block;
+  margin: 1.5rem auto 0;
   padding: 10px 40px;
   color: var(--white);
   background: var(--accent);
@@ -11,4 +13,10 @@
   text-decoration: none;
   border: none;
   cursor: pointer;
+}
+
+.organisations .image {
+  max-width: 400px;
+  height: 300px;
+  margin: 0 auto 2em;
 }

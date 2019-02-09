@@ -1,0 +1,9 @@
+.challenge {
+  padding: 40px;
+  background: var(--white);
+}
+
+.challenge .image {
+  max-width: 400px;
+  margin: 0 auto 2em;
+}

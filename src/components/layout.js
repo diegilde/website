@@ -1,7 +1,7 @@
 import React from "react"
 import PropTypes from "prop-types"
 import { StaticQuery, graphql } from "gatsby"
-import Footer from './Footer';
+import Footer from './footer/Footer';
 import "./layout.css"
 
 const Layout = ({ children }) => (
@@ -16,10 +16,10 @@ const Layout = ({ children }) => (
       }
     `}
     render={data => (
-      <>
+      <div className="page">
         <main>{children}</main>
         <Footer />
-      </>
+      </div>
     )}
   />
 )

@@ -3,8 +3,10 @@ import "./Professions.css"
 
 const Professions = () => (
   <div className="professions">
-    <h1>Join your guild</h1>
-    {/*work in progress*/}
+    <div className="content">
+      <h1>Join your guild</h1>
+      {/*work in progress*/}
+    </div>
   </div>
 )
 

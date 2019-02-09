@@ -61,7 +61,7 @@ function SEO({ description, lang, meta, keywords, title }) {
               )
               .concat(meta)}
           >
-            <link href="https://fonts.googleapis.com/css?family=Abril+Fatface|Open+Sans:400,700" rel="stylesheet" />
+            <link href="https://fonts.googleapis.com/css?family=Playfair+Display:700|Open+Sans:400,700" rel="stylesheet" />
           </Helmet>
         )
       }}

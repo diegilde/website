@@ -1,6 +1,6 @@
 import React from "react"
 import PropTypes from 'prop-types';
-import logo from '../images/the-guild-logo.svg';
+import logo from '../../images/the-guild-logo.svg';
 import "./Benefit.css"
 
 const Benefit = ({ title, description }) => (

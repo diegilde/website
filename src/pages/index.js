@@ -2,13 +2,13 @@ import React from "react"
 
 import Layout from "../components/layout"
 import SEO from "../components/seo"
-import HeroSection from '../components/HeroSection';
-import Challenge from '../components/Challenge';
-import TheGuild from '../components/TheGuild';
-import Professions from '../components/Professions';
-import HowItWorks from '../components/HowItWorks';
-import Organisations from '../components/Organisations';
-import About from '../components/About';
+import HeroSection from '../components/heroSection/HeroSection';
+import Challenge from '../components/challenge/Challenge';
+import TheGuild from '../components/theGuild/TheGuild';
+import Professions from '../components/professions/Professions';
+import HowItWorks from '../components/howItWorks/HowItWorks';
+import Organisations from '../components/organisations/Organisations';
+import About from '../components/about/About';
 
 const IndexPage = () => (
   <Layout>
