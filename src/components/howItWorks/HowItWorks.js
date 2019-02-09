@@ -1,6 +1,7 @@
 import React from "react"
 import Step from './Step';
 import "./HowItWorks.css"
+import bigTriangleDivider from '../../images/big-triangle-divider.svg';
 
 const HowItWorks = () => (
   <div className="howItWorks">
@@ -27,6 +28,7 @@ const HowItWorks = () => (
           description="Engage in your guild and support others in their development by offering mentoring, content, workshops or answering questions."
         />
     </div>
+    <img src={bigTriangleDivider} className="divider" alt="divider" />
   </div>
 )
 

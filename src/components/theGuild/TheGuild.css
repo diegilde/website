@@ -1,6 +1,24 @@
 .theGuild {
+  padding: 0;
+  color: var(--white);
+}
+
+.theGuild .content {
   padding: 4em 2em;
-  color: var(--white)
+}
+
+.theGuild .divider {
+  width: 100%;
+  height: 8em;
+  margin: 0;
+  display: block;
+}
+
+.theGuild .bg {
+  transform: skewY(2deg);
+  transform-origin: top left;
+  height: 8em;
+  background: var(--white);
 }
 
 .theGuild .illustration {
