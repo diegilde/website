@@ -1,6 +1,6 @@
 const ghpages = require('gh-pages')
 
-fs.writeFile('public/CNAME', "die-gilde.com", function(err) {
+fs.writeFile('public/CNAME', "jointheguild.online", function(err) {
   console.error(err)
 });
 
