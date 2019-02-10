@@ -27,14 +27,5 @@ module.exports = {
         icon: `src/images/the-guild-logo.png`, // This path is relative to the root of the site.
       },
     },
-    {
-      resolve: `gatsby-plugin-google-analytics`,
-      options: {
-        trackingId: "UA-134210860-1",
-        head: true,
-        anonymize: true,
-        respectDNT: false,
-      },
-    },
   ],
 }

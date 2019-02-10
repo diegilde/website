@@ -1,0 +1,14 @@
+/* overrides */
+.cc-about {
+  display: none;
+}
+
+body > div:nth-child(4) > div > div.cc-settings.cc-position-left.visible > div:nth-child(1) > a.cc-save-btn:hover {
+   background: var(--accent);
+   color: var(--white);
+ }
+
+body > div:nth-child(4) > div > div.cc-dialog-container.visible > div > div.cc-actions > a.cc-primary-btn:hover {
+  background: var(--accent);
+  color: var(--white);
+}
