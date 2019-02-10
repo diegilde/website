@@ -15,10 +15,23 @@
   text-decoration: none;
   border: none;
   cursor: pointer;
+  text-align: center;
+}
+
+.organisations .desktop {
+  margin-top: 5rem;
+  text-align: left;
 }
 
 .organisations .image {
   max-width: 400px;
-  height: 350px;
   margin: 0 auto 2em;
+}
+
+.organisations .mobile .image {
+  height: 350px;
+}
+
+.organisations .desktop .image {
+  height: 450px;
 }

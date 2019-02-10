@@ -14,3 +14,17 @@
   margin: 0;
   display: block;
 }
+.howItWorks .mobile .step {
+  margin: 3rem 0;
+}
+
+
+.howItWorks .desktop > div {
+  display: flex;
+  justify-content: space-between;
+}
+
+.howItWorks .desktop > div > * {
+  flex-grow: 1;
+  flex-basis: 0;
+ }
