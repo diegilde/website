@@ -7,3 +7,8 @@
   max-width: 400px;
   margin: 0 auto 2em;
 }
+
+.challenge .desktop {
+  align-items: center;
+  text-align: left;
+}
