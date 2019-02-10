@@ -3,10 +3,25 @@
   background: var(--white);
 }
 
-.professions .profession  {
+.professions .profession {
   margin: 3em 0;
 }
 
 .professions .profession img {
+  max-height: 80px;
   margin-bottom: 0.5em;
+}
+
+.professions .desktop {
+  max-width: 700px;
+  margin: 3em auto;
+}
+
+.professions .desktop .profession {
+  margin: 1em 0;
+}
+
+.professions .desktop > div  {
+  display: flex;
+  justify-content: space-around;
 }
