@@ -21,14 +21,14 @@ const LegalNotice = () => (
           Germany
         </p>
 
-        <h2>Contact Information</h2>
+        <h4>Contact Information</h4>
         <p>
           Faxnumber: +49 32 221966814<br />
           E-Mail: hello@workmaker.org<br />
           Internet address: joinyourguild.online
         </p>
 
-        <h2>VAT number</h2>
+        <h4>VAT number</h4>
         <p>
           VAT indentification number in accorance with Section 27 a of the German VAT act<br />
           <strong>DE291659172</strong>
