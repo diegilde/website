@@ -637,11 +637,12 @@ h4, h5, h6 {
   display: flex;
   min-height: 100vh;
   flex-direction: column;
-  justify-content: space-between
+  justify-content: space-between;
 }
 
 .content {
   margin: 0 auto;
+  padding: 0 2em;
   max-width: 1024px;
 }
 
