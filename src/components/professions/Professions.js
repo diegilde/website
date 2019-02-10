@@ -10,6 +10,7 @@ const Professions = () => (
   <div className="professions">
     <div className="content">
       <h1>Join your guild</h1>
+      <p>The Guild is currently focusing on these five professions. If your profession is not one of them, let us know by selecting “Other” in the signup form. We will get in touch with you as soon as we are ready to launch.</p>
       <div className="profession">
         <img src={executiveAssistants} alt="Executive Assistants" />
         <p>Executive Assistants</p>
