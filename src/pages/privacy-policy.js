@@ -86,44 +86,44 @@ const PrivacyPolicy = () => (
       <h4>Google Analytics</h4>
       <p>We use Google Analytics on our website. This is a web analytics service provided by Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043 (hereinafter: Google).</p>
       <p>Through certification according to the EU-US Privacy Shield</p>
-      <p><a href="https://www.privacyshield.gov/participant?id=a2zt000000001L5AAI&amp;status=Active" target="_blank" rel="noopener">https://www.privacyshield.gov/participant?id=a2zt000000001L5AAI&amp;status=Active</a></p>
+      <p><a href="https://www.privacyshield.gov/participant?id=a2zt000000001L5AAI&amp;status=Active">https://www.privacyshield.gov/participant?id=a2zt000000001L5AAI&amp;status=Active</a></p>
       <p>Google guarantees that it will follow the EU's data protection regulations when processing data in the United States.</p>
       <p>The Google Analytics service is used to analyze how our website is used. The legal basis is Art. 6 Para. 1 lit. f) GDPR. Our legitimate interest lies in the analysis, optimization, and economic operation of our site.</p>
       <p>Usage and user-related information, such as IP address, place, time, or frequency of your visits to our website will be transmitted to a Google server in the United States and stored there. However, we use Google Analytics with the so-called anonymization function, whereby Google truncates the IP address within the EU or the EEA before it is transmitted to the US.</p>
       <p>The data collected in this way is in turn used by Google to provide us with an evaluation of visits to our website and what visitors do once there. This data can also be used to provide other services related to the use of our website and of the internet in general.</p>
       <p>Google states that it will not connect your IP address to other data. In addition, Google provides further information with regard to its data protection practices at</p>
-      <p><a href="https://www.google.com/intl/de/policies/privacy/partners" target="_blank" rel="noopener">https://www.google.com/intl/de/policies/privacy/partners,</a></p>
+      <p><a href="https://www.google.com/intl/de/policies/privacy/partners">https://www.google.com/intl/de/policies/privacy/partners,</a></p>
       <p>including options you can exercise to prevent such use of your data.</p>
       <p>In addition, Google offers an opt-out add-on at</p>
-      <p><a href="https://tools.google.com/dlpage/gaoptout?hl=de" target="_blank" rel="noopener">https://tools.google.com/dlpage/gaoptout?hl=en</a></p>
+      <p><a href="https://tools.google.com/dlpage/gaoptout?hl=de">https://tools.google.com/dlpage/gaoptout?hl=en</a></p>
       <p>in addition with further information. This add-on can be installed on the most popular browsers and offers you further control over the data that Google collects when you visit our website. The add-on informs Google Analytics' JavaScript (ga.js) that no information about the website visit should be transmitted to Google Analytics. However, this does not prevent information from being transmitted to us or to other web analytics services we may use as detailed herein.</p>
 
       <h4>Google Fonts</h4>
       <p>Our website uses Google Fonts to display external fonts. This is a service provided by Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043 (hereinafter: Google).</p>
       <p>Through certification according to the EU-US Privacy Shield</p>
-      <p><a href="https://www.privacyshield.gov/participant?id=a2zt000000001L5AAI&amp;status=Active" target="_blank" rel="noopener">https://www.privacyshield.gov/participant?id=a2zt000000001L5AAI&amp;status=Active</a></p>
+      <p><a href="https://www.privacyshield.gov/participant?id=a2zt000000001L5AAI&amp;status=Active">https://www.privacyshield.gov/participant?id=a2zt000000001L5AAI&amp;status=Active</a></p>
       <p>Google guarantees that it will follow the EU's data protection regulations when processing data in the United States.</p>
       <p>To enable the display of certain fonts on our website, a connection to the Google server in the USA is established whenever our website is accessed.</p>
       <p>The legal basis is Art. 6 Para. 1 lit. f) GDPR. Our legitimate interest lies in the optimization and economic operation of our site.</p>
       <p>When you access our site, a connection to Google is established from which Google can identify the site from which your request has been sent and to which IP address the fonts are being transmitted for display.</p>
       <p>Google offers detailed information at</p>
-      <p><a href="https://adssettings.google.com/authenticated" target="_blank" rel="noopener">https://adssettings.google.com/authenticated</a></p>
-      <p><a href="https://policies.google.com/privacy" target="_blank" rel="noopener">https://policies.google.com/privacy</a></p>
+      <p><a href="https://adssettings.google.com/authenticated">https://adssettings.google.com/authenticated</a></p>
+      <p><a href="https://policies.google.com/privacy">https://policies.google.com/privacy</a></p>
       <p>in particular on options for preventing the use of data.</p>
 
       <h4>MailChimp - Newsletter</h4>
       <p>We offer you the opportunity to register for our free newsletter via our website.</p>
       <p>We use MailChimp, a service of The Rocket Science Group, LLC, 512 Means Street, Suite 404, Atlanta, GA 30318, USA, hereinafter referred to as "The Rocket Science Group".</p>
       <p>Through certification according to the EU-US Privacy Shield</p>
-      <p><a href="https://www.privacyshield.gov/participant?id=a2zt0000000TO6hAAG&amp;status=Active" target="_blank" rel="noopener">https://www.privacyshield.gov/participant?id=a2zt0000000TO6hAAG&amp;status=Active</a></p>
+      <p><a href="https://www.privacyshield.gov/participant?id=a2zt0000000TO6hAAG&amp;status=Active">https://www.privacyshield.gov/participant?id=a2zt0000000TO6hAAG&amp;status=Active</a></p>
       <p>the Rocket Science Group guarantees that it will follow the EU's data protection regulations when processing data in the United States. In addition, the Rocket Science Group offers further information about its data protection practices at</p>
-      <p><a href="http://mailchimp.com/legal/privacy/" target="_blank" rel="noopener">http://mailchimp.com/legal/privacy/</a></p>
+      <p><a href="http://mailchimp.com/legal/privacy/">http://mailchimp.com/legal/privacy/</a></p>
       <p>If you register for our free newsletter, the data requested from you for this purpose, i.e. your email address and, optionally, your name and address, will be processed by The Rocket Science Group. In addition, your IP address and the date and time of your registration will be saved. During the registration process, your consent to receive this newsletter will be obtained together with a concrete description of the type of content it will offer and reference made to this privacy policy.</p>
       <p>The newsletter then sent out by The Rocket Science Group will also contain a tracking pixel called a web beacon. This pixel helps us evaluate whether and when you have read our newsletter and whether you have clicked any links contained therein. In addition to further technical data, such as data about your computer hardware and your IP address, the data processed will be stored so that we can optimize our newsletter and respond to the wishes of our readers. The data will therefore increase the quality and attractiveness of our newsletter.</p>
       <p>The legal basis for sending the newsletter and the analysis is Art. 6 Para. 1 lit. a) GDPR.</p>
       <p>You may revoke your prior consent to receive this newsletter under Art. 7 Para. 3 GDPR with future effect. All you have to do is inform us that you are revoking your consent or click on the unsubscribe link contained in each newsletter.</p>
 
-      <p><a href="https://www.ratgeberrecht.eu/leistungen/muster-datenschutzerklaerung.html" target="_blank" rel="noopener">Model Data Protection Statement</a> for <a href="https://www.ratgeberrecht.eu/" target="_blank">Anwaltskanzlei Weiß &amp; Partner</a></p>
+      <p><a href="https://www.ratgeberrecht.eu/leistungen/muster-datenschutzerklaerung.html">Model Data Protection Statement</a> for <a href="https://www.ratgeberrecht.eu/">Anwaltskanzlei Weiß &amp; Partner</a></p>
 
 
       <Link to="/">Go back to our homepage</Link>
