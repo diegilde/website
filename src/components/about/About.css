@@ -3,3 +3,8 @@
   background: var(--secondary);
   color: var(--white)
 }
+
+.about .desktop {
+  text-align: left;
+  max-width: 50%;
+}
