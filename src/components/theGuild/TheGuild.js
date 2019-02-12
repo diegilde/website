@@ -9,16 +9,16 @@ function Benefits() {
     return (
       <>
           <Benefit
-            title="Free career development"
+            title=<span>Free career<br />development</span>
             description="Get free support from your professional peers that will help you advance your career."
           />
           <Benefit
-            title="Reliable professional community"
+            title=<span>Reliable professional<br />community</span>
             description="Join your guild and find your 'professional home’ - reliable, trustworthy and independent from your employer. "
           />
           <Benefit
-            title="Rewarding engagement"
-            description="Benefit financially from the impact you have in the guild through a unique ownership model."
+            title=<span>Rewarding<br />engagement</span>
+            description="Benefit financially from the impact you have in the guild through a unique ownership model (coming soon)."
          />
       </>
     )
