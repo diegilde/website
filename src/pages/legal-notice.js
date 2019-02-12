@@ -50,8 +50,10 @@ const LegalNotice = () => (
           Arrow icon made by <a href="https://www.flaticon.com/authors/lucy-g">Lucy G</a> from <a href="https://www.flaticon.com/">Flaticon</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/">Creative Commons BY 3.0</a><br />
           Profession icons and celebration icon made by <a href="https://www.freepik.com">Freepik</a> from <a href="https://www.flaticon.com/">Flaticon</a> are licensed by <a href="http://creativecommons.org/licenses/by/3.0/">Creative Commons BY 3.0</a><br />
           Sad made by AomAm from the Noun Project<br />
-          Background photo by <a href="https://unsplash.com/photos/3Zzsk2MG2AI?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Samara Doole</a> on <a href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a><br />
+          Header photo by <a href="https://unsplash.com/photos/3Zzsk2MG2AI?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Samara Doole</a> on <a href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a><br />
+          Background photo by <a href="https://unsplash.com/photos/1FxMET2U5dU">Hector J. Rivas</a> on <a href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a><br />
           &ldquo;Do More&rdquo; photo by <a href="https://unsplash.com/photos/KE0nC8-58MQ?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Carl Heyerdahl</a> on <a href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a><br />
+          &ldquo;Worker; photo by <a href="https://unsplash.com/photos/8KfCR12oeUM">Christopher Burns</a> on <a href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a><br />
           &ldquo;US&rdquo; photo by <a href="https://unsplash.com/photos/rdoRdjOk-OY?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Toa Heftiba</a> on <a href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a>
         </p>
 
