@@ -6,6 +6,15 @@
   align-items: center;
 }
 
+.heroSection .desktop img {
+    width: 300px;
+}
+
+#maintitle {
+  font-size: 40.5px;
+  line-height: 1.1em;
+}
+
 .heroSection .desktop > div:first-child {
   text-align: left;
 }

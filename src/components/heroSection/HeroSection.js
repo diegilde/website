@@ -8,7 +8,7 @@ import BackgroundImage from './BackgroundImage';
 function Content() {
   return (
     <>
-      <h2>Be excellent with each other</h2>
+      <h2 id='maintitle'>Be excellent <br /> with each other</h2>
       <p>The Guild empowers people to make progress in their career - through the support of their professional guild and independent from their employer.</p>
     </>
   )
