@@ -6,7 +6,7 @@ const BackgroundImage = ({ children, className }) => (
   <StaticQuery
     query={graphql`
       query {
-        desktop: file(relativePath: { eq: "the-guild-background.jpg" }) {
+        desktop: file(relativePath: { eq: "the-guild-background3.png" }) {
           childImageSharp {
             fluid(quality: 100, maxWidth: 2568) {
               ...GatsbyImageSharpFluid_withWebp
