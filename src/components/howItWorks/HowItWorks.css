@@ -4,7 +4,7 @@
 }
 
 .howItWorks .content {
-  padding: 4em 0;
+  padding: 5em 0px 2em 0px;
 }
 
 .howItWorks .divider {
@@ -14,12 +14,13 @@
   margin: 0;
   display: block;
 }
+
 .howItWorks .mobile .step {
   margin: 3rem 0;
 }
 
-
 .howItWorks .desktop > div {
+  margin-top: 60px;
   display: flex;
   justify-content: space-between;
 }

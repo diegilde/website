@@ -15,19 +15,17 @@ function Steps() {
              <Step
                number={2}
                title="Get valuable answers"
-               description="Struggling with a specific challenge or question? Ask your guild and receive valuable answers from other experts in your field."
+               description="Ask your guild and receive valuable answers from other experts in your field."
              />
-         </div>
-         <div>
              <Step
                number={3}
                title="Curated relevant content"
-               description="Peer-curated and -rated content suggestions help you spend your time only on those blog posts and links that can really move you forward."
+               description="Peer-curated content suggestions help you focus on what really move you forward."
              />
              <Step
                number={4}
                title="Help others progress"
-               description="Engage in your guild and support others in their development by offering mentoring, content, workshops or answering questions."
+               description="Engage in your guild by offering mentoring, content, workshops or answering questions."
              />
          </div>
      </>
