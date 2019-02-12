@@ -6,5 +6,21 @@
 
 .about .desktop {
   text-align: left;
-  max-width: 50%;
+  max-width: 100%;
 }
+
+.about .desktop > div {
+  display: flex;
+  justify-content: space-between;
+}
+
+.about .desktop > div > * {
+  padding-right: 15px;
+  flex-grow: 1;
+  flex-basis: 0;
+ }
+
+#contactus {
+   color: var(--accent);
+   font-weight: 600;
+ }
